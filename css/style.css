@@ -70,14 +70,14 @@ div.portrait {
   width: 90%;
 }
 
-.navbar-inner {
+/*.navbar-inner {
   background-image: -moz-linear-gradient(top, white, #AAA);
   background-image: -webkit-gradient(linear, 0 0, 0 100%, from(white), to(#AAA));
   background-image: -webkit-linear-gradient(top, white, #AAA);
   background-image: -o-linear-gradient(top, white, #AAA);
   background-image: linear-gradient(to bottom, white, #AAA);  
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffaaaaaa', GradientType=0);
-}
+} */
 
 #pvrs img {
   -webkit-border-radius: 6px;
