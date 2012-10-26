@@ -76,6 +76,7 @@ div.portrait {
   background-image: -webkit-linear-gradient(top, white, #AAA);
   background-image: -o-linear-gradient(top, white, #AAA);
   background-image: linear-gradient(to bottom, white, #AAA);  
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffaaaaaa', GradientType=0);
 }
 
 #pvrs img {
