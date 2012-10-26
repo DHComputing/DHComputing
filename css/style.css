@@ -6,6 +6,9 @@ div.hero-unit {
 }
 
 footer {
+  margin-top: 20px;
+  border-top: 1px solid lightgray;
+  padding-top: 10px;
   text-align: center;
 }
 
@@ -23,4 +26,19 @@ div.portrait {
 
 #testimonial blockquote {
   margin-bottom: 0px;
+}
+
+#contact {
+  text-align: center;
+}
+
+#contact dt {
+  font-weight: normal;
+}
+
+#contact dd {
+  font-weight: bold;
+  font-size: 2em;
+  line-height: 1.2em;
+  margin-bottom: 10px;
 }
