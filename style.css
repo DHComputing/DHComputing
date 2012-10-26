@@ -1,0 +1,135 @@
+
+mainlogo {
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 40px;
+}
+
+
+a img {
+   border: 0px
+}
+
+
+body {
+   font-family: Arial, sans-serif;
+   background-color: grey;
+   font-size: 14px;
+}
+
+h1 {
+   font-family: Arial, sans-serif;
+   font-weight: bold;
+   font-size: 24px;
+}
+
+h2 {
+   font-family: Arial, sans-serif;
+   font-weight: bold;
+   font-size: 14px;
+}
+
+h3 {
+   font-family: Arial, sans-serif;
+   font-weight: bold;
+   font-size: 20px;
+}
+
+footnote {
+   font-family: Arial, sans-serif;
+   font-weight: bold;
+   font-size: 10px;
+}
+
+
+div.pagecontent {
+   max-width: 900px;
+   background-color: white;
+   margin: 0px auto;
+   padding: 5px 20px;
+}
+
+div.header table.contact {
+   float: right;
+   font-weight: bold;
+   font-size: 18px;
+}
+
+div.navigation ul {
+   margin: 0px;
+   border-bottom: 1px solid black;
+   padding-bottom: 5px;
+}
+
+div.navigation ul li {
+   display: inline;
+   border: 1px solid black;
+   background-color: grey;
+   color: white;
+   padding: 5px 5px;
+   /*background-image: url('DH Computing.png');*/
+}
+
+div.navigation ul li:hover {
+   background-color: lightblue;
+}
+
+div.navigation ul li.active {
+   background-color: lightgreen;
+}
+
+div.navigation ul li a {
+   color: white;
+   text-decoration: none;
+}
+
+div.footer {
+   border-top: 1px solid black;
+}
+
+div#tabs {
+   min-height: 430px; /* height of white box */
+}
+
+div#home p {
+	/*font-size: 180%;*/
+	/*padding: 5px 5px;*/
+}
+
+div#home li {
+	/*margin-top: 15px*/
+	padding: 5px 0px;
+}
+
+div#services li {
+	padding: 5px 0px;
+}
+
+img.advert {
+	float: right;
+	/*padding: 10px 0px;*/
+}
+
+img.humax {
+	float: right;
+}
+
+img.recommended {
+	float: left;
+	padding: 10px 25px
+}
+
+a {
+   color: blue;
+}
+a:hover {
+   color: red;
+}
+
+div.clear {
+   clear: both;
+}
+
+
+
