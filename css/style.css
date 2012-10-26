@@ -1,0 +1,26 @@
+div.hero-unit {
+  background-image: url(../images/keyboard.jpg);
+  background-size: cover;
+  color: white;
+  margin-bottom: 20px;
+}
+
+footer {
+  text-align: center;
+}
+
+div.portrait {
+  background-image: url(http://us.123rf.com/400wm/400/400/wavebreakmediamicro/wavebreakmediamicro1111/wavebreakmediamicro111106673/11228208-man-with-a-tablet-computer-against-a-white-background.jpg);
+  background-size: cover;
+  background-position: center top;
+  height: 300px;
+}
+
+.navbar .brand {
+  color: black;
+  font-weight: bold;
+}
+
+#testimonial blockquote {
+  margin-bottom: 0px;
+}
