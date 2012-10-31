@@ -17,7 +17,7 @@ footer {
 }
 
 div.portrait {
-  background-image: url(../images/photo.jpg);
+  background-image: url(../images/computers.png);
   background-size: cover;
   background-position: center top;
   height: 500px;
@@ -66,11 +66,12 @@ div.portrait {
 }
 
 #print-ad img {
-  opacity: 0.6;
-  width: 90%;
+  /*opacity: 0.8;*/   /*If you want to dim advert image*/
+  /*width: 90%;*/
 }
 
-/*.navbar-inner {
+/* Commented out because the below does not work in IE9
+  .navbar-inner {
   background-image: -moz-linear-gradient(top, white, #AAA);
   background-image: -webkit-gradient(linear, 0 0, 0 100%, from(white), to(#AAA));
   background-image: -webkit-linear-gradient(top, white, #AAA);
