@@ -18,7 +18,8 @@ footer {
 
 div.portrait {
   background-image: url(../images/computers.png);
-  background-size: cover;
+  background-size: contain; /* Change to cover when portrait added */
+  background-repeat: no-repeat;
   background-position: center top;
   height: 500px;
   -webkit-border-radius: 4px;
