@@ -71,8 +71,8 @@ div.portrait {
   /*width: 90%;*/
 }
 
-/* Commented out because the below does not work in IE9
-  .navbar-inner {
+/* Darker tab bar. Commented out because the below does not work in IE9*/
+/*  .navbar-inner {
   background-image: -moz-linear-gradient(top, white, #AAA);
   background-image: -webkit-gradient(linear, 0 0, 0 100%, from(white), to(#AAA));
   background-image: -webkit-linear-gradient(top, white, #AAA);
